@@ -60,12 +60,9 @@
 <div align="left">
 
   
-- 🛰️ **Space Debris Identification & Classification** (AI-powered object detection in space imagery)  
-- 🏥 **Diabetic Retinopathy Detection Using CNN** (Medical image analysis for early diagnosis)  
-- 🚗 **ABS Braking System Simulation in MATLAB** (Simulating ABS mechanism for safety enhancement)  
-- 🎙️ **Voice-Activated Smart Assistant for the Visually Impaired** (AI-powered wearable assistant)  
-
-
+- 🔒 **Detection and Mitigation of False Data Injection Attacks Affecting Power Quality in Smart Grid Using Edge-AI**  
+- 📬 **Smart Parcel locker with OTP Authentication** 
+ 
 
 </div>
 
