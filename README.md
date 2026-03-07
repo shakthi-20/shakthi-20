@@ -60,8 +60,8 @@
 <div align="left">
 
   
-- 🔒 **Detection and Mitigation of False Data Injection Attacks Affecting Power Quality in Smart Grid Using Edge-AI**  
-- 📬 **Smart Parcel locker with OTP Authentication** 
+- 🔒 **Detection of False Data Injection Attacks in Smart Micro-Grid Using Edge-AI**  
+
  
 
 </div>
