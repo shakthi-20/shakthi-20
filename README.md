@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:1e3c72,100:2a5298&height=200&section=header&text=SHAKTHI%20S&fontSize=50&fontColor=fff)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=500&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Electrical+Engineer;AI+%2B+Embedded+Systems+Enthusiast;Published+IEEE+Researcher;Building+at+the+Edge+of+Hardware+%26+Software" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=500&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Electrical+Engineer;AI+%2B+Embedded+Systems+Enthusiast;Building+at+the+Edge+of+Hardware+%26+Software" />
 
 ### ⚡ **Where AI Meets Hardware — Embedded Intelligence, Edge Computing & Real-World Systems**
 
