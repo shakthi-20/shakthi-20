@@ -70,8 +70,8 @@ I enjoy turning ideas into things that work — whether that's a trained model r
 
 ## 🧩 Projects
 
-- 🔒 **Detection & Mitigation of False Data Injection Attacks in Smart Micro-Grids Using Edge AI**
-  Customized 3-bus AC testbed with ESP32 + Raspberry Pi. Attack simulation via ARP spoofing on Kali Linux, anomaly detection via ML at the edge, relay-based mitigation using IEC IDMT protection curves. Full MQTT + Firebase + Flask pipeline.
+- 🔒 **Detection of False Data Injection Attacks in Smart Micro-Grids Using Edge AI**
+  
 
 ---
 
