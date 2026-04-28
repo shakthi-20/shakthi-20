@@ -70,7 +70,7 @@ I enjoy turning ideas into things that work — whether that's a trained model r
 
 ## 📄 Publications
 
-<table>
+<table style="width:100%;">
 <tr>
 <td>
 <b>Predictive Modeling of Video Streaming Effectiveness Using Artificial Neural Network and Sentiment Analysis</b><br>
@@ -82,18 +82,19 @@ I enjoy turning ideas into things that work — whether that's a trained model r
 <tr>
 <td>
 <b>Breast Cancer Screening from Thermal Images: CNN-Based Analysis with Augmented Datasets and Web App Deployment</b><br>
-<i>IEEE Conference Paper</i> &nbsp;|&nbsp; <b>Selected for AI Impact Summit 2025 (AI By Her Hackathon)</b><br>
+<i>IEEE Conference Paper</i> | <b>Selected for AI Impact Summit 2025 (AI By Her Hackathon)</b><br>
 <a href="https://ieeexplore.ieee.org/document/11350372">🔗 View on IEEE Xplore</a>
 </td>
+</tr>
 
+<tr>
 <td>
 <b>Spectrum-Agnostic Space Debris Detection with Autoencoders</b><br>
-<i>IEEE Conference Paper</i> <br>
+<i>IEEE Conference Paper</i><br>
 <a href="https://ieeexplore.ieee.org/document/11441314">🔗 View on IEEE Xplore</a>
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🌐 Socials
