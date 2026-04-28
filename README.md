@@ -17,7 +17,7 @@
 🎓 **Final Year Electrical & Electronics Engineering Student**
 🛠 **Building at the intersection of AI, embedded systems & power networks**
 📡 **From microcontrollers to ML models — I like things that actually run on hardware**
-📝 **2× IEEE Published Author** | 🏆 **AI By Her Hackathon — AI Impact Summit 2025 Selectee**
+📝 **3× IEEE Published Author** | 🏆 **AI By Her Hackathon — AI Impact Summit 2025 Selectee**
 
 I enjoy turning ideas into things that work — whether that's a trained model running at the edge, a protocol sniffed off a network, or a system that monitors and responds to the real world in real time.
 
