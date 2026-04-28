@@ -98,6 +98,7 @@ I enjoy turning ideas into things that work — whether that's a trained model r
 <i>IEEE Conference Paper</i> <br>
 <a href="https://ieeexplore.ieee.org/document/11441314">🔗 View on IEEE Xplore</a>
 </td>
+</td>
 </tr>
 </table>
 
