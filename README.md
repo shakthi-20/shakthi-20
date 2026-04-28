@@ -79,7 +79,6 @@ I enjoy turning ideas into things that work — whether that's a trained model r
 
 <table>
 <tr>
-<td width="60">📘</td>
 <td>
 <b>Predictive Modeling of Video Streaming Effectiveness Using Artificial Neural Network and Sentiment Analysis</b><br>
 <i>IEEE Conference Paper</i><br>
@@ -87,7 +86,7 @@ I enjoy turning ideas into things that work — whether that's a trained model r
 </td>
 </tr>
 <tr>
-<td width="60">🏆</td>
+
 <td>
 <b>Breast Cancer Screening from Thermal Images: CNN-Based Analysis with Augmented Datasets and Web App Deployment</b><br>
 <i>IEEE Conference Paper</i> &nbsp;|&nbsp; <b>Selected for AI Impact Summit 2025 (AI By Her Hackathon)</b><br>
