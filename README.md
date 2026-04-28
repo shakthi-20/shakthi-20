@@ -86,7 +86,6 @@ I enjoy turning ideas into things that work — whether that's a trained model r
 </td>
 </tr>
 <tr>
-
 <td>
 <b>Breast Cancer Screening from Thermal Images: CNN-Based Analysis with Augmented Datasets and Web App Deployment</b><br>
 <i>IEEE Conference Paper</i> &nbsp;|&nbsp; <b>Selected for AI Impact Summit 2025 (AI By Her Hackathon)</b><br>
@@ -97,7 +96,7 @@ I enjoy turning ideas into things that work — whether that's a trained model r
 <i>IEEE Conference Paper</i> <br>
 <a href="https://ieeexplore.ieee.org/document/11441314">🔗 View on IEEE Xplore</a>
 </td>
-</td>
+
 </tr>
 </table>
 
